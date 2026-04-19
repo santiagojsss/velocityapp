@@ -1,0 +1,349 @@
+{
+  "cuesta-azul": {
+    "ad_sets": [
+      {
+        "id": "11-03-25-test-01",
+        "name": "11/03/25 TEST 01",
+        "period_start": "2026-03-11",
+        "period_end": "2026-04-16",
+        "status": "inactive",
+        "ads": [
+          {
+            "ad_number": 1,
+            "guion": "Decisiones de compra y riesgo",
+            "spend": 664.67,
+            "results": 25650,
+            "result_type": "link_click",
+            "cpr": 0.026,
+            "ctr": 5.57,
+            "cpm": 1.34,
+            "frequency": 1.55,
+            "impressions": 495205,
+            "video_25_count": 87130,
+            "video_95_count": 31253,
+            "video_25_pct": 17.6,
+            "video_95_pct": 6.3,
+            "drop_off_pct": 64.1,
+            "delivery": "not_delivering",
+            "action": "GANADOR — replicar en próximo conjunto"
+          },
+          {
+            "ad_number": 2,
+            "guion": "Continuidad y reposición",
+            "spend": 2.42,
+            "results": 93,
+            "result_type": "link_click",
+            "cpr": 0.026,
+            "ctr": 3.37,
+            "cpm": 0.71,
+            "frequency": 1.05,
+            "impressions": 3387,
+            "video_25_count": 425,
+            "video_95_count": 115,
+            "video_25_pct": 12.5,
+            "video_95_pct": 3.4,
+            "drop_off_pct": 72.9,
+            "delivery": "not_delivering",
+            "action": "DATOS INSUFICIENTES — necesita más presupuesto"
+          },
+          {
+            "ad_number": 3,
+            "guion": "Precio vs. Rentabilidad",
+            "spend": 0.96,
+            "results": 35,
+            "result_type": "link_click",
+            "cpr": 0.027,
+            "ctr": 3.41,
+            "cpm": 0.84,
+            "frequency": 1.04,
+            "impressions": 1145,
+            "video_25_count": 169,
+            "video_95_count": 36,
+            "video_25_pct": 14.8,
+            "video_95_pct": 3.1,
+            "drop_off_pct": 78.7,
+            "delivery": "not_delivering",
+            "action": "DATOS INSUFICIENTES — necesita más presupuesto"
+          },
+          {
+            "ad_number": 4,
+            "guion": "Logística y alcance nacional",
+            "spend": 2.56,
+            "results": 96,
+            "result_type": "link_click",
+            "cpr": 0.027,
+            "ctr": 5.21,
+            "cpm": 0.99,
+            "frequency": 1.07,
+            "impressions": 2591,
+            "video_25_count": 511,
+            "video_95_count": 151,
+            "video_25_pct": 19.7,
+            "video_95_pct": 5.8,
+            "drop_off_pct": 70.5,
+            "delivery": "not_delivering",
+            "action": "INTERESANTE — CTR alto, CPM más bajo de todos. Probar con más presupuesto."
+          },
+          {
+            "ad_number": 5,
+            "guion": "La importancia del proveedor (el que da la cara)",
+            "spend": 16.64,
+            "results": 524,
+            "result_type": "link_click",
+            "cpr": 0.032,
+            "ctr": 4.51,
+            "cpm": 1.16,
+            "frequency": 1.08,
+            "impressions": 14377,
+            "video_25_count": 2197,
+            "video_95_count": 623,
+            "video_25_pct": 15.3,
+            "video_95_pct": 4.3,
+            "drop_off_pct": 71.6,
+            "delivery": "not_delivering",
+            "action": "SEGUNDO MEJOR CTR — hook fuerte pero mayor drop-off. Mantener en próximo conjunto."
+          }
+        ]
+      }
+    ],
+    "pending": [
+      "Datos de conversión post-click (clicks → WhatsApp → clientes reales)",
+      "Historial de campañas anteriores a marzo 2026",
+      "Nuevos conjuntos mensuales con estructura correcta"
+    ]
+  },
+  "warasa": {
+    "ad_sets": [
+      {
+        "id": "06-02-25-interaccion",
+        "name": "06/02/25 INTERACCIÓN",
+        "period_start": "2026-02-06",
+        "period_end": "2026-04-16",
+        "status": "active",
+        "ads": [
+          {
+            "ad_number": 1,
+            "guion": "Ad 1 (guión pendiente mapeo)",
+            "spend": 11.61,
+            "results": 35,
+            "result_type": "messaging_conversation",
+            "cpr": 0.332,
+            "ctr": 1.36,
+            "cpm": 2.25,
+            "frequency": 1.63,
+            "impressions": 5167,
+            "video_25_count": null,
+            "video_95_count": null,
+            "delivery": "active",
+            "action": "PENDIENTE MAPEO A GUIÓN"
+          },
+          {
+            "ad_number": 2,
+            "guion": "Ad 2 (guión pendiente mapeo)",
+            "spend": 276.23,
+            "results": 938,
+            "result_type": "messaging_conversation",
+            "cpr": 0.294,
+            "ctr": 2.40,
+            "cpm": 1.65,
+            "frequency": 3.34,
+            "impressions": 167581,
+            "video_25_count": null,
+            "video_95_count": null,
+            "delivery": "active",
+            "action": "GANADOR del conjunto — pero frecuencia 3.34 en zona de alerta"
+          },
+          {
+            "ad_number": 3,
+            "guion": "Ad 3 (guión pendiente mapeo)",
+            "spend": 93.52,
+            "results": 280,
+            "result_type": "messaging_conversation",
+            "cpr": 0.334,
+            "ctr": 2.42,
+            "cpm": 2.67,
+            "frequency": 2.76,
+            "impressions": 35087,
+            "video_25_count": null,
+            "video_95_count": null,
+            "delivery": "active",
+            "action": "SEGUNDO — CPR alto vs Ad 2, evaluar"
+          },
+          {
+            "ad_number": 4,
+            "guion": "Ad 4 (guión pendiente mapeo)",
+            "spend": 1.30,
+            "results": 1,
+            "result_type": "messaging_conversation",
+            "cpr": 1.300,
+            "ctr": null,
+            "cpm": 3.30,
+            "frequency": 1.16,
+            "impressions": null,
+            "video_25_count": null,
+            "video_95_count": null,
+            "delivery": "inactive",
+            "action": "PAUSAR — CPR altísimo, inactivo"
+          }
+        ]
+      },
+      {
+        "id": "18-03-25-interaccion-ps5",
+        "name": "18/03/25 INTERACCIÓN - ps5",
+        "period_start": "2026-03-18",
+        "period_end": "2026-04-16",
+        "status": "mixed",
+        "ads": [
+          {
+            "ad_number": 1,
+            "guion": "Ad 1 nueva tanda (guión pendiente mapeo)",
+            "spend": 104.34,
+            "results": 159,
+            "result_type": "messaging_conversation",
+            "cpr": 0.656,
+            "ctr": 1.20,
+            "cpm": 2.93,
+            "frequency": 2.50,
+            "impressions": null,
+            "delivery": "inactive",
+            "action": "PAUSAR — CPR alto vs conjunto anterior"
+          },
+          {
+            "ad_number": 2,
+            "guion": "Ad 2 nueva tanda (guión pendiente mapeo)",
+            "spend": 3.65,
+            "results": 2,
+            "result_type": "messaging_conversation",
+            "cpr": 1.825,
+            "ctr": 0.34,
+            "cpm": 1.68,
+            "frequency": 1.85,
+            "impressions": null,
+            "delivery": "inactive",
+            "action": "PAUSAR — CPR muy alto, CTR bajísimo"
+          },
+          {
+            "ad_number": 3,
+            "guion": "Ad 3 nueva tanda (guión pendiente mapeo)",
+            "spend": 2.42,
+            "results": 5,
+            "result_type": "messaging_conversation",
+            "cpr": 0.484,
+            "ctr": 0.70,
+            "cpm": 2.80,
+            "frequency": 1.51,
+            "impressions": null,
+            "delivery": "active",
+            "action": "DATOS INSUFICIENTES"
+          },
+          {
+            "ad_number": 4,
+            "guion": "Ad 4 nueva tanda (guión pendiente mapeo)",
+            "spend": 117.27,
+            "results": 283,
+            "result_type": "messaging_conversation",
+            "cpr": 0.414,
+            "ctr": 1.33,
+            "cpm": 2.07,
+            "frequency": 2.32,
+            "impressions": null,
+            "delivery": "active",
+            "action": "MANTENER — mejor CPR del conjunto"
+          },
+          {
+            "ad_number": 5,
+            "guion": "Ad 5 nueva tanda (guión pendiente mapeo)",
+            "spend": 28.58,
+            "results": 32,
+            "result_type": "messaging_conversation",
+            "cpr": 0.893,
+            "ctr": 0.87,
+            "cpm": 2.50,
+            "frequency": 1.91,
+            "impressions": null,
+            "delivery": "inactive",
+            "action": "PAUSAR — CPR alto, CTR bajo"
+          }
+        ]
+      },
+      {
+        "id": "14-04-26-interaccion-ps5-nuevos",
+        "name": "14/04/26 INTERACCIÓN - ps5 nuevos",
+        "period_start": "2026-04-14",
+        "period_end": "2026-04-16",
+        "status": "active",
+        "ads": [
+          {
+            "ad_number": 1,
+            "guion": "Ad 1 nueva tanda 2.0 (guión pendiente mapeo)",
+            "spend": 4.49,
+            "results": 9,
+            "result_type": "messaging_conversation",
+            "cpr": 0.499,
+            "ctr": 0.89,
+            "cpm": 3.30,
+            "frequency": 1.52,
+            "delivery": "active",
+            "action": "MUY NUEVO — sin datos suficientes (2 días)"
+          },
+          {
+            "ad_number": 2,
+            "guion": "Ad 2 nueva tanda 2.0 (guión pendiente mapeo)",
+            "spend": 0.59,
+            "results": 2,
+            "result_type": "messaging_conversation",
+            "cpr": 0.295,
+            "ctr": 1.23,
+            "cpm": 2.73,
+            "frequency": 1.33,
+            "delivery": "active",
+            "action": "MUY NUEVO — sin datos suficientes"
+          },
+          {
+            "ad_number": 3,
+            "guion": "Ad 3 nueva tanda 2.0 (guión pendiente mapeo)",
+            "spend": 0.18,
+            "results": null,
+            "result_type": "messaging_conversation",
+            "cpr": null,
+            "ctr": null,
+            "cpm": 2.50,
+            "frequency": 1.09,
+            "delivery": "active",
+            "action": "MUY NUEVO — sin datos suficientes"
+          },
+          {
+            "ad_number": 4,
+            "guion": "Ad 4 nueva tanda 2.0 (guión pendiente mapeo)",
+            "spend": 0.29,
+            "results": 1,
+            "result_type": "messaging_conversation",
+            "cpr": 0.290,
+            "ctr": 0.63,
+            "cpm": 1.50,
+            "frequency": 1.21,
+            "delivery": "active",
+            "action": "MUY NUEVO — sin datos suficientes"
+          },
+          {
+            "ad_number": 5,
+            "guion": "Ad 5 nueva tanda 2.0 (guión pendiente mapeo)",
+            "spend": 0.02,
+            "results": null,
+            "result_type": "messaging_conversation",
+            "cpr": null,
+            "ctr": null,
+            "cpm": 1.18,
+            "frequency": 1.31,
+            "delivery": "active",
+            "action": "MUY NUEVO — sin datos suficientes"
+          }
+        ]
+      }
+    ],
+    "pending": [
+      "Mapear número de anuncio (1-5) a nombre de guión real",
+      "Guiones de la campaña PS5 no están cargados en base"
+    ]
+  }
+}

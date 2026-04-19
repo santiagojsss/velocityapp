@@ -1,0 +1,122 @@
+[
+  {
+    "id": "t1",
+    "client_id": "cuesta-azul",
+    "title": "Conseguir datos de conversión post-click",
+    "description": "Cuántos de los 25.650 clicks derivaron en conversaciones de WhatsApp y en clientes reales. Pedírselo a Cuesta Azul.",
+    "priority": "alta",
+    "due_date": "2026-04-25",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t2",
+    "client_id": "cuesta-azul",
+    "title": "Armar estructura de conjuntos mensuales",
+    "description": "Crear el nuevo conjunto de Mayo con los 5 guiones. Presupuesto fijo por anuncio para que Meta no elija solo.",
+    "priority": "alta",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t3",
+    "client_id": "cuesta-azul",
+    "title": "Bajar historial completo de campañas anteriores",
+    "description": "Export de todos los períodos desde que arrancó la campaña (2025) para ver evolución.",
+    "priority": "media",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t4",
+    "client_id": "warasa",
+    "title": "Mapear anuncios 1-5 a guiones reales",
+    "description": "Identificar qué guión corresponde a cada número de ad en los 3 conjuntos de Warasa.",
+    "priority": "alta",
+    "due_date": "2026-04-22",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t5",
+    "client_id": "warasa",
+    "title": "Revisar frecuencia del Ad 2 en 06/02/25",
+    "description": "Frecuencia 3.34 — zona de alerta. Evaluar si refrescar creatividad o ampliar audiencia.",
+    "priority": "alta",
+    "due_date": "2026-04-20",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t6",
+    "client_id": "warasa",
+    "title": "Cargar guiones de campaña PS5",
+    "description": "Los 5 guiones de la tanda PS5 no están en la base. Pedirlos y cargarlos.",
+    "priority": "media",
+    "due_date": "2026-04-25",
+    "status": "pendiente",
+    "assignee": "tadeo"
+  },
+  {
+    "id": "t7",
+    "client_id": "matias-manzano",
+    "title": "Bajar export Meta Ads a nivel anuncio",
+    "description": "Conseguir el archivo .xlsx con desglose por anuncio para analizar qué guiones están funcionando.",
+    "priority": "alta",
+    "due_date": "2026-04-25",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t8",
+    "client_id": "iphone-monte",
+    "title": "Bajar export Meta Ads a nivel anuncio",
+    "description": "Conseguir datos publicitarios para iPhone Monte.",
+    "priority": "media",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t9",
+    "client_id": "celltech",
+    "title": "Bajar export Meta Ads a nivel anuncio",
+    "description": "Conseguir datos publicitarios para Cell Tech.",
+    "priority": "media",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t10",
+    "client_id": "cadena-cell",
+    "title": "Bajar export Meta Ads a nivel anuncio",
+    "description": "Conseguir datos publicitarios para Cadena Cell (contacto: Amilcar).",
+    "priority": "media",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t11",
+    "client_id": "nqn-importados",
+    "title": "Bajar export Meta Ads a nivel anuncio",
+    "description": "Conseguir datos publicitarios para NQN Importados.",
+    "priority": "media",
+    "due_date": "2026-04-30",
+    "status": "pendiente",
+    "assignee": "santi"
+  },
+  {
+    "id": "t12",
+    "client_id": "velocity",
+    "title": "Definir posicionamiento de la agencia",
+    "description": "Armar el perfil de Velocity como cliente: diferencial, público, tono, guiones propios.",
+    "priority": "baja",
+    "due_date": "2026-05-15",
+    "status": "pendiente",
+    "assignee": "santi"
+  }
+]
